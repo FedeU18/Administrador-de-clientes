@@ -1,12 +1,5 @@
 {
-  "clientes" : [
-    {
-      "id": 1,
-      "nombre": "Juan",
-      "telefono": 102013313,
-      "email": "juan@juan.com",
-      "empresa": "Codigo Con Juan"
-    },
+  "clientes": [
     {
       "id": 2,
       "nombre": "Karen",
@@ -15,18 +8,12 @@
       "empresa": "Codigo Con Juan"
     },
     {
-      "id": 3,
-      "nombre": "Josue",
-      "telefono": 31983913,
-      "email": "josue@juan.com",
-      "empresa": "Codigo Con Juan"
-    },
-    {
-      "id": 4,
-      "nombre": "Miguel",
-      "telefono": 319381983,
+      "nombre": "Miguelito",
+      "empresa": "Codigo Con Juan",
       "email": "miguel@juan.com",
-      "empresa": "Codigo Con Juan"
+      "telefono": "319381983",
+      "notas": "algo",
+      "id": 4
     },
     {
       "id": 5,
@@ -34,6 +21,14 @@
       "telefono": 1398198938,
       "email": "pedro@juan.com",
       "empresa": "Codigo Con Juan"
+    },
+    {
+      "nombre": "Fede",
+      "empresa": "Mercado Libre",
+      "email": "fede@gmail.com",
+      "telefono": "2990000000",
+      "notas": "Contraten a Fede porfa",
+      "id": 6
     }
   ]
 }
